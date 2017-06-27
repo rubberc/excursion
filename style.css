@@ -1,0 +1,41 @@
+
+body {
+  background-color: black;
+}
+h1 {
+  text-align: center;
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+
+}
+h3 {
+  color: off-white;
+  font-size: 16px;
+  text-align: center;
+}
+.cellphone {
+  align-content: center;
+}
+h2 {
+  text-align: center;
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+h4 {
+  text-align: center;
+  font-family: Verdana;
+
+  font-size: 21px;
+  color: Gray;
+}
+h5 {
+  text-align: right;
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 25px;
+  color: Gray;
+}
